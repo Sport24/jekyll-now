@@ -9,7 +9,7 @@ name: Sport24
 description: Gjithcka rreth futbollit
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:  {{site.baseurl }}/images/config.png
+avatar:  http:/sport24.cf/images/config.png
 #
 # Flags below are optional
 #
